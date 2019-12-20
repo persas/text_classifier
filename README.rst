@@ -3,7 +3,7 @@ clasificador_texto
 ==================
 
 
-Add a short description here!
+Text classifier based on BoW and TF-IDF for university assingment
 
 
 Description
